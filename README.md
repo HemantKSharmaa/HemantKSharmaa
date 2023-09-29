@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HemantKSharmaa
-- 👀 I’m interested in contributung to open source.
+- 👀 I’m interested in contributing to open source.
 - 🌱 I’m currently learning C++ along with web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
