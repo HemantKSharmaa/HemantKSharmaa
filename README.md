@@ -24,17 +24,7 @@ const intro = {
 
 ---
 
-## 👨‍💻 About Me
 
-* 👋 Hi, I'm **Hemant Sharma**
-* 💻 Passionate about **Software Development and Programming**
-* 🌱 Currently learning **Data Structures & Algorithms in Java**
-* 🔭 Exploring **Open Source Development**
-* 🤝 Interested in contributing to **Open Source Projects**
-* 🚀 Looking for opportunities to grow as a **Software Developer**
-* 🧠 I enjoy solving problems and continuously learning new technologies
-
----
 
 ## 🛠️ Languages and Tools
 
@@ -68,32 +58,7 @@ const intro = {
 
 ---
 
-## 📚 Currently Learning
 
-```text
-Java
- ├── Data Structures
- ├── Algorithms
- ├── Problem Solving
- └── Object-Oriented Programming
-
-Software Development
- ├── Git & GitHub
- ├── Open Source
- └── Backend Development
-```
-
----
-
-## 🚀 Goals
-
-* Contribute to meaningful **Open Source Projects**
-* Improve my **Data Structures & Algorithms** skills
-* Build practical and useful software projects
-* Learn modern development technologies
-* Grow as a professional **Software Developer**
-
----
 
 ## 📊 GitHub Stats
 
@@ -122,7 +87,3 @@ Software Development
 </p>
 
 ---
-
-### 💜 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and connect with me.
