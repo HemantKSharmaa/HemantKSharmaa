@@ -1,6 +1,6 @@
 # Hi, this is Hemant 👋
 
-**Aspiring Software Developer | Java Programmer | Open Source Enthusiast**
+**Software Developer | Java · Spring Boot · MySQL · DSA • Python| LLM Integration · Speech Recognition · Intent Routing · Multithreading | B.Tech IT ’27 | Open for Internships**
 
 [![Follow](https://img.shields.io/github/followers/HemantKSharmaa?label=Follow\&style=social)](https://github.com/HemantKSharmaa)
 ![Profile Views](https://komarev.com/ghpvc/?username=HemantKSharmaa\&color=blueviolet)
@@ -15,7 +15,7 @@ const intro = {
   type: "Programmer",
   interestedIn: ["Open Source", "Software Development"],
   currentlyLearning: ["Data Structures & Algorithms", "Java"],
-  languages: ["Java", "Python", "C"],
+  languages: ["Java", "Python", "C++"],
   focus: "Problem Solving & Backend Development",
   lookingFor: "Open Source Contributions & Remote Opportunities",
   learnerType: "Self Learner"
